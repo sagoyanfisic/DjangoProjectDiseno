@@ -4,5 +4,6 @@ http://south.aeracode.org/<br>
 <storge>Documentación de South:</storge><br>
 http://south.readthedocs.org/en/latest/<br>
 Iniciando la migración con south : <br>
-<code>python manage.py schemamigration principal --initial</code>
+<code>$ python manage.py schemamigration principal --initial</code>
+<code>$ python manage.py migrate principal </code>
 
