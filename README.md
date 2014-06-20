@@ -6,7 +6,8 @@
 <code>sudo apt-get install python-setuptools </code> <br>
 <code> sudo apt-get install python-django</code><br>
 <font>Inciar proyecto</font> <br>
-<code> django-admin startproject nombreProyecto </code><br>
+<code> $ mkdir hellodjango && cd hellodjango </code>
+  <code> django-admin startproject nombreProyecto </code><br>
 <code> cd nombreProyecto/ </code><br>
 <code> python manage.py runserver </code><br>
 <code>python manage.py syncdb </code><br>
